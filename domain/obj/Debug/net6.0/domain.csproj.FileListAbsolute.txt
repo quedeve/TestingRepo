@@ -1,0 +1,14 @@
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\bin\Debug\net6.0\domain.deps.json
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\bin\Debug\net6.0\domain.runtimeconfig.json
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\bin\Debug\net6.0\domain.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\bin\Debug\net6.0\ref\domain.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\bin\Debug\net6.0\domain.pdb
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.csproj.AssemblyReference.cache
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.AssemblyInfoInputs.cache
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.AssemblyInfo.cs
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.csproj.CoreCompileInputs.cache
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\ref\domain.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.pdb
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\domain\obj\Debug\net6.0\domain.genruntimeconfig.cache

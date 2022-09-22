@@ -1,0 +1,17 @@
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\persistence.deps.json
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\persistence.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\ref\persistence.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\persistence.pdb
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\domain.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\domain.pdb
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.csproj.AssemblyReference.cache
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.AssemblyInfoInputs.cache
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.AssemblyInfo.cs
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.csproj.CoreCompileInputs.cache
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.csproj.CopyComplete
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\ref\persistence.dll
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.pdb
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\bin\Debug\net6.0\persistence.runtimeconfig.json
+D:\Interview\TowerBersamaGroup\TowerBersamaGroup\persistence\obj\Debug\net6.0\persistence.genruntimeconfig.cache
